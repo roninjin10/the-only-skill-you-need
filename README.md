@@ -6,7 +6,7 @@ By providing the powerful instructions this skill named "skill" aligns the AI's 
 
 ## Supported Agents & Installation
 
-### Gemini CLI (Codex)
+### Gemini CLI
 
 1. Download `skill.skill`.
 2. Install it:
