@@ -1,6 +1,6 @@
 # the-only-skill-you-need
 
-The definitive metaskill for AI agents. Why install dozens of specialized skills when you can simply solve the root cause?
+The definitive metaskill for AI agents. Why install dozens of specialized skills when you can simply install 1?
 
 By providing the powerful instructions this skill named "skill" aligns the AI's output with perfection, comprehensively removing the need for any other task-specific skills.
 
